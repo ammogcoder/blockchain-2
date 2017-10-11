@@ -1,4 +1,3 @@
-# Install .NET core [SDK](https://www.microsoft.com/net/core#windowscmd") #
-
-1. cd "folder project" 
-2. dotnet run
+1. Install .NET core [SDK](https://www.microsoft.com/net/core#windowscmd") #
+2. cd "folder project" 
+3. dotnet run
