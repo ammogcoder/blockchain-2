@@ -1,3 +1,3 @@
 Install .NET core SDK
-> cd "folder project" 
-> dotnet run
+|> cd "folder project" 
+|> dotnet run
